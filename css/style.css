@@ -1,0 +1,25 @@
+body {
+  background-color: rgb(168, 202, 191);
+}
+.rounded-img {
+  width: 60%;
+ 
+  border-radius: 39%;
+  box-shadow: 0 0 10px rgba(25, 9, 9, 0.4);
+  padding: 0.7em;
+  margin-bottom: 2em;
+}
+.card {
+  padding: 1em;
+  border-radius: 1em;
+  text-align: center;
+}
+.card:hover{
+  background-color: rgba(0,0, 0, 0.1);
+}
+.card img {
+  border-radius: 42%;
+  width: 61%;
+  margin: auto;
+
+}
