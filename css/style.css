@@ -1,5 +1,5 @@
 body {
-  background-color: rgb(144, 209, 188);
+  background-color: rgb(159, 230, 207);
 }
 .rounded-img {
   width: 60%;
@@ -18,7 +18,7 @@ body {
   background-color: rgba(0, 0, 0, 0.2);
 }
 .card img {
-  border-radius: 42%;
+  border-radius: 40%;
   width: 61%;
   margin: auto;
 }
